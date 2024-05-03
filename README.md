@@ -1,16 +1,14 @@
-# CITS4012-Project
+# CITS4012-Project: Aspect-based Sentiment Analysis (ABSA)
 
-## 8 Aspect Categories
-1. **Food**
-2. **Serivce**
-3. **Staff**
-4. **Price**
-5. **Ambience**
-6. **Menu**
-7. **Place**
-8. **Miscellaneous**
+## Team Members
+- **Allison Lau** (23123849)
+- **Peter Le** (23193249)
 
-## 3 Polarities
-1. **Positive**
-2. **Negative**
-3. **Neutral**
+## Installation
+
+1. Install the required Python packages
+```bash 
+pip install torch nltk pandas numpy
+```
+
+## Models
